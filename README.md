@@ -13,5 +13,5 @@ Does it make money? Not really! its really hard to try predict the markets direc
 
 - backtesting on collected historical data to fine tweak the bots.  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80905013/193472741-b1263735-a187-4d36-aff3-7bb83ab63270.gif" align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/80905013/193472741-b1263735-a187-4d36-aff3-7bb83ab63270.gif" align="center" width="100%">
 </p>
