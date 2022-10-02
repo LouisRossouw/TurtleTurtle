@@ -1,0 +1,14 @@
+{
+      "SHORT_DEGREE": {
+            "direction": "Neutral",
+            "description": "Neutral || sideways trend, lets do high freq short trading",
+            "degree": 2.9070392992886247,
+            "notification": "B"
+      },
+      "EXTERNAL_DEGREES": {
+            "direction": "Neutral",
+            "description": "Neutral || sideways trend, lets do high freq short trading",
+            "degree": 4.074557368496961,
+            "notification": "B"
+      }
+}

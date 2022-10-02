@@ -1,0 +1,138 @@
+# Config file for TurtleTurtle and bots 
+
+
+
+TurtleTurtle_path: "D:/work/projects/dev/projects/TurtleTurtle_v4"
+TurtleTurtle_wallets_path: "D:/work/projects/dev/projects/TurtleTurtle_v4/data/bot_data/wallets"
+TurtleTurtle_audio_path : "D:/work/projects/dev/projects/TurtleTurtle_v4/libs/sounds"
+Live_data_amount : 3
+TurtleTurtle_speed: 5
+BackTest_Active: False
+BackTest_Active_print_statement: True
+Bot_Notifications: False
+ARB_watcher_active: True
+
+BackTest_start_money: 10000
+
+
+
+# CoinBase
+coinbase_record_market: True 
+
+
+
+
+
+ARB_active_bots: {
+
+
+              "arb_AAA" : {
+
+                            status : "play",
+                            currency_pair : 'SOLZAR',
+                            account : "0000",
+                            Risk_mode : "low",
+                            Plot_graph : False
+
+                            },
+
+                  }
+
+
+# Luno
+
+luno_record_market: True
+luno_plot_graphs_of_market: False
+luno_plot_graphs_of_sales: False
+
+LUNO_active_bots: {
+
+
+              "bot_luno" : {
+
+                            status : "hold",
+                            currency_pair : 'ETHZAR',
+                            account : "0000",
+                            Risk_mode : "low",
+                            Plot_graph : False
+
+                            },
+
+                  }
+
+
+
+# Valr
+
+valr_record_market: True
+valr_plot_graphs_of_market: False
+valr_plot_graphs_of_sales: False
+
+VALR_active_bots: {
+
+
+
+                "bot_play_xrp" : {
+
+                            status : "hold",
+                            currency_pair : 'XRPZAR',
+                            account : "955025768003440640",
+                            Risk_mode : "sell_at_limit",
+                            Plot_graph : False
+
+                            },
+
+
+
+# checks market direction
+                "Market_eval" : {
+
+                            status : "hold",
+                            currency_pair : 'ETHZAR',
+                            account : "000000000",
+                            Risk_mode : "mid",
+                            Plot_graph : False
+
+                            },
+
+
+
+
+# ETHZAR
+                "bot_AAA" : {
+
+                            status : "hold",
+                            currency_pair : 'ETHZAR',
+                            account : "951756907636871168",
+                            Risk_mode : "low",
+                            Plot_graph : False
+
+                            },
+
+# XRPZAR
+                "bot_BBB" : {
+
+                            status : "hold", 
+                            currency_pair : 'XRPZAR',
+                            account : "944487537284722688",
+                            Risk_mode : "low",
+                            Plot_graph : False
+
+                            },
+
+# XRPZAR
+                "bot_CCC" : {
+
+                            status : "hold", 
+                            currency_pair : 'XRPZAR',
+                            account : "000000000",
+                            Risk_mode : "mid",
+                            CSD_avrg : 2,
+                            CSD_avrg_2 : 2,
+                            Plot_graph : False
+
+                            },
+
+
+
+}

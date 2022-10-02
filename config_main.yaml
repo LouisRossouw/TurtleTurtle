@@ -1,0 +1,25 @@
+
+
+
+## PATHS ########################################################################
+
+# Main Config for TurtleTurtle
+TurtleTurtle_path: "D:/work/projects/dev/projects/TurtleTurtle"
+
+# Trading Systems
+valr_config_path: "D:/work/projects/dev/projects/TurtleTurtle/Trading_sys/Valr"
+luno_config_path: "D:/work/projects/dev/projects/TurtleTurtle/Trading_sys/Luno"
+
+
+
+
+## Conditions ###################################################################
+
+whale_sys: False
+valr_sys_active: True
+luno_sys_active: False
+arba_sys_active: False
+
+
+# Managers
+Bot_Notifications: True

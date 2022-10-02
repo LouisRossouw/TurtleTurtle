@@ -1,0 +1,45 @@
+{
+      "LOCAL_ARB": {
+            "local_luno_valr_BTC": [
+                  42.0,
+                  "luno",
+                  "valr"
+            ],
+            "local_luno_valr_ETH": [
+                  35.0,
+                  "luno",
+                  "valr"
+            ],
+            "local_luno_valr_XRP": [
+                  0.02,
+                  "valr",
+                  "luno"
+            ]
+      },
+      "GLOBAL_ARB": {
+            "global_valr_coinbase_BTC": [
+                  [
+                        1873.7,
+                        "coinbase",
+                        "valr"
+                  ],
+                  0.5442510020440309
+            ],
+            "global_valr_coinbase_ETH": [
+                  [
+                        184.08,
+                        "coinbase",
+                        "valr"
+                  ],
+                  0.7689248752711026
+            ],
+            "global_valr_coinbase_SOL": [
+                  [
+                        2.62,
+                        "coinbase",
+                        "valr"
+                  ],
+                  0.4292408008126093
+            ]
+      }
+}

@@ -1,0 +1,751 @@
+{
+      "BTCZAR": {
+            "currencyPair": "BTCZAR",
+            "askPrice": "346432",
+            "bidPrice": "346145",
+            "highPrice": "350999",
+            "lowPrice": "335708"
+      },
+      "ETHZAR": {
+            "currencyPair": "ETHZAR",
+            "askPrice": "24125",
+            "bidPrice": "24124",
+            "highPrice": "24280",
+            "lowPrice": "22906"
+      },
+      "ETHBTC": {
+            "currencyPair": "ETHBTC",
+            "askPrice": "0.06959496",
+            "bidPrice": "0.06956737",
+            "highPrice": "0.069964",
+            "lowPrice": "0.06799626"
+      },
+      "LTCBTC": {
+            "currencyPair": "LTCBTC",
+            "askPrice": "0.00289913",
+            "bidPrice": "0.00289487",
+            "highPrice": "0.00293502",
+            "lowPrice": "0.00274885"
+      },
+      "LTCETH": {
+            "currencyPair": "LTCETH",
+            "askPrice": "0.04175135",
+            "bidPrice": "0.0415292",
+            "highPrice": "0.04216627",
+            "lowPrice": "0.04030028"
+      },
+      "ADAETH": {
+            "currencyPair": "ADAETH",
+            "askPrice": "0.00034756",
+            "bidPrice": "0.00034638",
+            "highPrice": "0.00035323",
+            "lowPrice": "0.00034665"
+      },
+      "XEMBTC": {
+            "currencyPair": "XEMBTC",
+            "askPrice": "0.00000218",
+            "bidPrice": "0.00000213",
+            "highPrice": "0.00000219",
+            "lowPrice": "0.00000201"
+      },
+      "XEMETH": {
+            "currencyPair": "XEMETH",
+            "askPrice": "0.0000314",
+            "bidPrice": "0.00003063",
+            "highPrice": "0.00003158",
+            "lowPrice": "0.00003091"
+      },
+      "ADABTC": {
+            "currencyPair": "ADABTC",
+            "askPrice": "0.00002417",
+            "bidPrice": "0.00002411",
+            "highPrice": "0.00002436",
+            "lowPrice": "0.00002389"
+      },
+      "ANTBTC": {
+            "currencyPair": "ANTBTC",
+            "askPrice": "0.00008672",
+            "bidPrice": "0.00008654",
+            "highPrice": "0.00008752",
+            "lowPrice": "0.00008484"
+      },
+      "ANTETH": {
+            "currencyPair": "ANTETH",
+            "askPrice": "0.00124605",
+            "bidPrice": "0.00124318",
+            "highPrice": "0.00125647",
+            "lowPrice": "0.00123885"
+      },
+      "BATBTC": {
+            "currencyPair": "BATBTC",
+            "askPrice": "0.00001664",
+            "bidPrice": "0.00001657",
+            "highPrice": "0.00001667",
+            "lowPrice": "0.00001621"
+      },
+      "BATETH": {
+            "currencyPair": "BATETH",
+            "askPrice": "0.00023876",
+            "bidPrice": "0.00023795",
+            "highPrice": "0.00023912",
+            "lowPrice": "0.00023701"
+      },
+      "BNTBTC": {
+            "currencyPair": "BNTBTC",
+            "askPrice": "0.00002327",
+            "bidPrice": "0.00002311",
+            "highPrice": "0.00002303",
+            "lowPrice": "0.00002249"
+      },
+      "BNTETH": {
+            "currencyPair": "BNTETH",
+            "askPrice": "0.00033511",
+            "bidPrice": "0.00033086",
+            "highPrice": "0.00033314",
+            "lowPrice": "0.00033126"
+      },
+      "CVCBTC": {
+            "currencyPair": "CVCBTC",
+            "askPrice": "0.0000069",
+            "bidPrice": "0.00000685",
+            "highPrice": "0.00000693",
+            "lowPrice": "0.00000673"
+      },
+      "CVCETH": {
+            "currencyPair": "CVCETH",
+            "askPrice": "0.00009895",
+            "bidPrice": "0.00009834",
+            "highPrice": "0.00010057",
+            "lowPrice": "0.00010011"
+      },
+      "BCHBTC": {
+            "currencyPair": "BCHBTC",
+            "askPrice": "0.00627065",
+            "bidPrice": "0.00625973",
+            "highPrice": "0.00717",
+            "lowPrice": "0.00605051"
+      },
+      "BCHETH": {
+            "currencyPair": "BCHETH",
+            "askPrice": "0.09034699",
+            "bidPrice": "0.08988784",
+            "highPrice": "0.09060581",
+            "lowPrice": "0.0879897"
+      },
+      "DCRBTC": {
+            "currencyPair": "DCRBTC",
+            "askPrice": "0.00132948",
+            "bidPrice": "0.00129191",
+            "highPrice": "0.0013338",
+            "lowPrice": "0.00128812"
+      },
+      "DGBBTC": {
+            "currencyPair": "DGBBTC",
+            "askPrice": "0.00000051",
+            "bidPrice": "0.0000005",
+            "highPrice": "0.00000051",
+            "lowPrice": "0.00000049"
+      },
+      "DGBETH": {
+            "currencyPair": "DGBETH",
+            "askPrice": "0.0000073",
+            "bidPrice": "0.00000716",
+            "highPrice": "0.00000735",
+            "lowPrice": "0.00000717"
+      },
+      "DNTBTC": {
+            "currencyPair": "DNTBTC",
+            "askPrice": "0.00000225",
+            "bidPrice": "0.00000216",
+            "highPrice": "0.00000225",
+            "lowPrice": "0.00000225"
+      },
+      "ETCBTC": {
+            "currencyPair": "ETCBTC",
+            "askPrice": "0.00150153",
+            "bidPrice": "0.00149572",
+            "highPrice": "0.00152809",
+            "lowPrice": "0.00146785"
+      },
+      "ETCETH": {
+            "currencyPair": "ETCETH",
+            "askPrice": "0.02158595",
+            "bidPrice": "0.0214753",
+            "highPrice": "0.022",
+            "lowPrice": "0.02132"
+      },
+      "GNOBTC": {
+            "currencyPair": "GNOBTC",
+            "askPrice": "0.00650324",
+            "bidPrice": "0.00631286",
+            "highPrice": "0.00657286",
+            "lowPrice": "0.00634704"
+      },
+      "GNOETH": {
+            "currencyPair": "GNOETH",
+            "askPrice": "0.09336658",
+            "bidPrice": "0.09206023",
+            "highPrice": "0.09474714",
+            "lowPrice": "0.09474714"
+      },
+      "GNTBTC": {
+            "currencyPair": "GNTBTC",
+            "askPrice": "0.00001493",
+            "bidPrice": "0.00001448",
+            "highPrice": "0.00001842",
+            "lowPrice": "0.00001427"
+      },
+      "GNTETH": {
+            "currencyPair": "GNTETH",
+            "askPrice": "0.00022901",
+            "bidPrice": "0.00020784",
+            "highPrice": "0.00023183",
+            "lowPrice": "0.00020625"
+      },
+      "LSKBTC": {
+            "currencyPair": "LSKBTC",
+            "askPrice": "0.00005041",
+            "bidPrice": "0.00005003",
+            "highPrice": "0.00005079",
+            "lowPrice": "0.00004938"
+      },
+      "MONABTC": {
+            "currencyPair": "MONABTC",
+            "askPrice": "0.00002361",
+            "bidPrice": "0.00002329",
+            "highPrice": "0.00002367",
+            "lowPrice": "0.00002321"
+      },
+      "OMGBTC": {
+            "currencyPair": "OMGBTC",
+            "askPrice": "0.00009393",
+            "bidPrice": "0.00009334",
+            "highPrice": "0.00009445",
+            "lowPrice": "0.00009205"
+      },
+      "OMGETH": {
+            "currencyPair": "OMGETH",
+            "askPrice": "0.00134619",
+            "bidPrice": "0.00133869",
+            "highPrice": "0.00132109",
+            "lowPrice": "0.00132109"
+      },
+      "PIVXBTC": {
+            "currencyPair": "PIVXBTC",
+            "askPrice": "0.00002215",
+            "bidPrice": "0.00002171",
+            "highPrice": "0.00002303",
+            "lowPrice": "0.00001967"
+      },
+      "QTUMBTC": {
+            "currencyPair": "QTUMBTC",
+            "askPrice": "0.00015365",
+            "bidPrice": "0.00015278",
+            "highPrice": "0.00015318",
+            "lowPrice": "0.00015083"
+      },
+      "QTUMETH": {
+            "currencyPair": "QTUMETH",
+            "askPrice": "0.00220922",
+            "bidPrice": "0.00219598",
+            "highPrice": "0.00219099",
+            "lowPrice": "0.00219099"
+      },
+      "RLCBTC": {
+            "currencyPair": "RLCBTC",
+            "askPrice": "0.00006492",
+            "bidPrice": "0.00006411",
+            "highPrice": "0.00006965",
+            "lowPrice": "0.00006369"
+      },
+      "SCBTC": {
+            "currencyPair": "SCBTC",
+            "askPrice": "0.00000019",
+            "bidPrice": "0.00000018",
+            "highPrice": "0.0000002",
+            "lowPrice": "0.00000018"
+      },
+      "SCETH": {
+            "currencyPair": "SCETH",
+            "askPrice": "0.00000272",
+            "bidPrice": "0.00000269",
+            "highPrice": "0.00000277",
+            "lowPrice": "0.00000268"
+      },
+      "SNTBTC": {
+            "currencyPair": "SNTBTC",
+            "askPrice": "0.0000016",
+            "bidPrice": "0.00000158",
+            "highPrice": "0.00000162",
+            "lowPrice": "0.00000158"
+      },
+      "SNTETH": {
+            "currencyPair": "SNTETH",
+            "askPrice": "0.0000229",
+            "bidPrice": "0.00002276",
+            "highPrice": "0.00002346",
+            "lowPrice": "0.00002291"
+      },
+      "STORJBTC": {
+            "currencyPair": "STORJBTC",
+            "askPrice": "0.00002499",
+            "bidPrice": "0.00002449",
+            "highPrice": "0.00002494",
+            "lowPrice": "0.00002439"
+      },
+      "WAVESBTC": {
+            "currencyPair": "WAVESBTC",
+            "askPrice": "0.00021144",
+            "bidPrice": "0.00021003",
+            "highPrice": "0.00021177",
+            "lowPrice": "0.00020738"
+      },
+      "WAVESETH": {
+            "currencyPair": "WAVESETH",
+            "askPrice": "0.00304378",
+            "bidPrice": "0.00301657",
+            "highPrice": "0.003",
+            "lowPrice": "0.003"
+      },
+      "TRXBTC": {
+            "currencyPair": "TRXBTC",
+            "askPrice": "0.00000318",
+            "bidPrice": "0.00000316",
+            "highPrice": "0.0000032",
+            "lowPrice": "0.00000313"
+      },
+      "TRXETH": {
+            "currencyPair": "TRXETH",
+            "askPrice": "0.00004554",
+            "bidPrice": "0.0000454",
+            "highPrice": "0.00004621",
+            "lowPrice": "0.00004542"
+      },
+      "TUSDBTC": {
+            "currencyPair": "TUSDBTC",
+            "askPrice": "0.00005237",
+            "bidPrice": "0.00005229",
+            "highPrice": "0.00005384",
+            "lowPrice": "0.00005143"
+      },
+      "TUSDETH": {
+            "currencyPair": "TUSDETH",
+            "askPrice": "0.00075263",
+            "bidPrice": "0.00075149",
+            "highPrice": "0.00078912",
+            "lowPrice": "0.00074958"
+      },
+      "XLMBTC": {
+            "currencyPair": "XLMBTC",
+            "askPrice": "0.00000652",
+            "bidPrice": "0.0000065",
+            "highPrice": "0.00000663",
+            "lowPrice": "0.00000627"
+      },
+      "XLMETH": {
+            "currencyPair": "XLMETH",
+            "askPrice": "0.00009362",
+            "bidPrice": "0.00009333",
+            "highPrice": "0.00009479",
+            "lowPrice": "0.000091"
+      },
+      "XRPBTC": {
+            "currencyPair": "XRPBTC",
+            "askPrice": "0.00002596",
+            "bidPrice": "0.0000259",
+            "highPrice": "0.00002723",
+            "lowPrice": "0.00002443"
+      },
+      "XRPETH": {
+            "currencyPair": "XRPETH",
+            "askPrice": "0.0003733",
+            "bidPrice": "0.00037184",
+            "highPrice": "0.00039561",
+            "lowPrice": "0.00035362"
+      },
+      "ZRXBTC": {
+            "currencyPair": "ZRXBTC",
+            "askPrice": "0.00001466",
+            "bidPrice": "0.00001459",
+            "highPrice": "0.00001472",
+            "lowPrice": "0.00001421"
+      },
+      "ZRXETH": {
+            "currencyPair": "ZRXETH",
+            "askPrice": "0.00021085",
+            "bidPrice": "0.00020943",
+            "highPrice": "0.00021051",
+            "lowPrice": "0.00020839"
+      },
+      "DOGEBTC": {
+            "currencyPair": "DOGEBTC",
+            "askPrice": "0.00000345",
+            "bidPrice": "0.00000343",
+            "highPrice": "0.00000356",
+            "lowPrice": "0.00000316"
+      },
+      "KMDBTC": {
+            "currencyPair": "KMDBTC",
+            "askPrice": "0.00001385",
+            "bidPrice": "0.0000137",
+            "highPrice": "0.0000142",
+            "lowPrice": "0.00001361"
+      },
+      "BSVBTC": {
+            "currencyPair": "BSVBTC",
+            "askPrice": "0.00261649",
+            "bidPrice": "0.00260851",
+            "highPrice": "0.00263448",
+            "lowPrice": "0.00257871"
+      },
+      "BSVETH": {
+            "currencyPair": "BSVETH",
+            "askPrice": "0.03760804",
+            "bidPrice": "0.03752458",
+            "highPrice": "0.03815746",
+            "lowPrice": "0.03734255"
+      },
+      "XRPZAR": {
+            "currencyPair": "XRPZAR",
+            "askPrice": "8.99",
+            "bidPrice": "8.98",
+            "highPrice": "9.56",
+            "lowPrice": "8.31"
+      },
+      "DAIBTC": {
+            "currencyPair": "DAIBTC",
+            "askPrice": "0.00005248",
+            "bidPrice": "0.00005156",
+            "highPrice": "0.00005318",
+            "lowPrice": "0.00005172"
+      },
+      "EOSBTC": {
+            "currencyPair": "EOSBTC",
+            "askPrice": "0.00006461",
+            "bidPrice": "0.00006438",
+            "highPrice": "0.00006455",
+            "lowPrice": "0.000063"
+      },
+      "LINKBTC": {
+            "currencyPair": "LINKBTC",
+            "askPrice": "0.00039888",
+            "bidPrice": "0.00039793",
+            "highPrice": "0.00040259",
+            "lowPrice": "0.00037145"
+      },
+      "VETBTC": {
+            "currencyPair": "VETBTC",
+            "askPrice": "0.00000124",
+            "bidPrice": "0.00000123",
+            "highPrice": "0.00000124",
+            "lowPrice": "0.00000119"
+      },
+      "XTZBTC": {
+            "currencyPair": "XTZBTC",
+            "askPrice": "0.00008043",
+            "bidPrice": "0.00008019",
+            "highPrice": "0.000081",
+            "lowPrice": "0.00007615"
+      },
+      "DAIETH": {
+            "currencyPair": "DAIETH",
+            "askPrice": "0.00075414",
+            "bidPrice": "0.00075047",
+            "highPrice": "0.0007802",
+            "lowPrice": "0.00074961"
+      },
+      "EOSETH": {
+            "currencyPair": "EOSETH",
+            "askPrice": "0.00092844",
+            "bidPrice": "0.00092528",
+            "highPrice": "0.00092954",
+            "lowPrice": "0.00092798"
+      },
+      "XTZETH": {
+            "currencyPair": "XTZETH",
+            "askPrice": "0.0011559",
+            "bidPrice": "0.00115132",
+            "highPrice": "0.00106692",
+            "lowPrice": "0.00106692"
+      },
+      "QNTBTC": {
+            "currencyPair": "QNTBTC",
+            "askPrice": "0.0060196",
+            "bidPrice": "0.00600098",
+            "highPrice": "0.00648995",
+            "lowPrice": "0.0055556"
+      },
+      "CROBTC": {
+            "currencyPair": "CROBTC",
+            "askPrice": "0.00000636",
+            "bidPrice": "0.00000633",
+            "highPrice": "0.00000654",
+            "lowPrice": "0.00000606"
+      },
+      "BTCUSDT": {
+            "currencyPair": "BTCUSDT",
+            "askPrice": "19114.37826464",
+            "bidPrice": "19094.29306346",
+            "highPrice": "19393.71884123",
+            "lowPrice": "18546"
+      },
+      "ETHUSDT": {
+            "currencyPair": "ETHUSDT",
+            "askPrice": "1329.95481194",
+            "bidPrice": "1328.42212456",
+            "highPrice": "1339.17422583",
+            "lowPrice": "1262.6523904"
+      },
+      "XRPUSDT": {
+            "currencyPair": "XRPUSDT",
+            "askPrice": "0.49528582",
+            "bidPrice": "0.49471907",
+            "highPrice": "0.52816379",
+            "lowPrice": "0.457"
+      },
+      "STMXBTC": {
+            "currencyPair": "STMXBTC",
+            "askPrice": "0.00000039",
+            "bidPrice": "0.00000037",
+            "highPrice": "0.00000038",
+            "lowPrice": "0.00000037"
+      },
+      "STMXETH": {
+            "currencyPair": "STMXETH",
+            "askPrice": "0.00000675",
+            "bidPrice": "0.00000503",
+            "highPrice": "0.00000551",
+            "lowPrice": "0.00000551"
+      },
+      "REPV2BTC": {
+            "currencyPair": "REPV2BTC",
+            "askPrice": "0.0003995",
+            "bidPrice": "0.00035883",
+            "highPrice": "0.00038307",
+            "lowPrice": "0.00035596"
+      },
+      "REPV2ETH": {
+            "currencyPair": "REPV2ETH",
+            "askPrice": "0.00548756",
+            "bidPrice": "0.0053877",
+            "highPrice": "0.00538771",
+            "lowPrice": "0.00538771"
+      },
+      "CELOBTC": {
+            "currencyPair": "CELOBTC",
+            "askPrice": "0.00004311",
+            "bidPrice": "0.00004284",
+            "highPrice": "0.00004364",
+            "lowPrice": "0.00004148"
+      },
+      "CELOETH": {
+            "currencyPair": "CELOETH",
+            "askPrice": "0.00061988",
+            "bidPrice": "0.00061501",
+            "highPrice": "0.00061471",
+            "lowPrice": "0.00061471"
+      },
+      "ALGOBTC": {
+            "currencyPair": "ALGOBTC",
+            "askPrice": "0.00001997",
+            "bidPrice": "0.00001992",
+            "highPrice": "0.0000212",
+            "lowPrice": "0.00001947"
+      },
+      "COMPBTC": {
+            "currencyPair": "COMPBTC",
+            "askPrice": "0.00328517",
+            "bidPrice": "0.00326698",
+            "highPrice": "0.00342987",
+            "lowPrice": "0.00315812"
+      },
+      "COMPETH": {
+            "currencyPair": "COMPETH",
+            "askPrice": "0.04720278",
+            "bidPrice": "0.04694728",
+            "highPrice": "0.04945789",
+            "lowPrice": "0.04665756"
+      },
+      "DOTBTC": {
+            "currencyPair": "DOTBTC",
+            "askPrice": "0.00033828",
+            "bidPrice": "0.00033769",
+            "highPrice": "0.00033941",
+            "lowPrice": "0.00033176"
+      },
+      "DOTETH": {
+            "currencyPair": "DOTETH",
+            "askPrice": "0.00486426",
+            "bidPrice": "0.00484878",
+            "highPrice": "0.00489313",
+            "lowPrice": "0.0048281"
+      },
+      "PAXBTC": {
+            "currencyPair": "PAXBTC",
+            "askPrice": "0.00005444",
+            "bidPrice": "0.00005182",
+            "highPrice": "0.00005457",
+            "lowPrice": "0.00005119"
+      },
+      "MATICBTC": {
+            "currencyPair": "MATICBTC",
+            "askPrice": "0.00004046",
+            "bidPrice": "0.00004032",
+            "highPrice": "0.00004087",
+            "lowPrice": "0.00003882"
+      },
+      "MATICETH": {
+            "currencyPair": "MATICETH",
+            "askPrice": "0.00058163",
+            "bidPrice": "0.00057951",
+            "highPrice": "0.00058516",
+            "lowPrice": "0.00057659"
+      },
+      "AAVEBTC": {
+            "currencyPair": "AAVEBTC",
+            "askPrice": "0.00402532",
+            "bidPrice": "0.00401409",
+            "highPrice": "0.00402995",
+            "lowPrice": "0.00392515"
+      },
+      "AAVEETH": {
+            "currencyPair": "AAVEETH",
+            "askPrice": "0.05786984",
+            "bidPrice": "0.05762372",
+            "highPrice": "0.05771541",
+            "lowPrice": "0.05715475"
+      },
+      "UNIBTC": {
+            "currencyPair": "UNIBTC",
+            "askPrice": "0.00031618",
+            "bidPrice": "0.00031458",
+            "highPrice": "0.00031659",
+            "lowPrice": "0.00028594"
+      },
+      "UNIETH": {
+            "currencyPair": "UNIETH",
+            "askPrice": "0.00455224",
+            "bidPrice": "0.00451683",
+            "highPrice": "0.004556",
+            "lowPrice": "0.00444486"
+      },
+      "ENJBTC": {
+            "currencyPair": "ENJBTC",
+            "askPrice": "0.0000253",
+            "bidPrice": "0.00002523",
+            "highPrice": "0.0000255",
+            "lowPrice": "0.00002474"
+      },
+      "ENJETH": {
+            "currencyPair": "ENJETH",
+            "askPrice": "0.00036376",
+            "bidPrice": "0.00036195",
+            "highPrice": "0.00036442",
+            "lowPrice": "0.00036442"
+      },
+      "MANABTC": {
+            "currencyPair": "MANABTC",
+            "askPrice": "0.00003808",
+            "bidPrice": "0.00003794",
+            "highPrice": "0.0000381",
+            "lowPrice": "0.0000371"
+      },
+      "MANAETH": {
+            "currencyPair": "MANAETH",
+            "askPrice": "0.00054695",
+            "bidPrice": "0.00054515",
+            "highPrice": "0.0005519",
+            "lowPrice": "0.00053931"
+      },
+      "SOLZAR": {
+            "currencyPair": "SOLZAR",
+            "askPrice": "615",
+            "bidPrice": "613",
+            "highPrice": "622",
+            "lowPrice": "566"
+      },
+      "BTCUSDC": {
+            "currencyPair": "BTCUSDC",
+            "askPrice": "19126",
+            "bidPrice": "19077",
+            "highPrice": "19218",
+            "lowPrice": "18628"
+      },
+      "USDCZAR": {
+            "currencyPair": "USDCZAR",
+            "askPrice": "18.15",
+            "bidPrice": "18.13",
+            "highPrice": "18.19",
+            "lowPrice": "17.95"
+      },
+      "BNBZAR": {
+            "currencyPair": "BNBZAR",
+            "askPrice": "5131",
+            "bidPrice": "5120",
+            "highPrice": "5172",
+            "lowPrice": "4863"
+      },
+      "SHIBZAR": {
+            "currencyPair": "SHIBZAR",
+            "askPrice": "0.000205",
+            "bidPrice": "0.000204",
+            "highPrice": "0.00021",
+            "lowPrice": "0.000195"
+      },
+      "AVAXZAR": {
+            "currencyPair": "AVAXZAR",
+            "askPrice": "326",
+            "bidPrice": "324",
+            "highPrice": "330",
+            "lowPrice": "312"
+      },
+      "ETHUSDC": {
+            "currencyPair": "ETHUSDC",
+            "askPrice": "1330.8",
+            "bidPrice": "1327.4",
+            "highPrice": "1334.4",
+            "lowPrice": "1279"
+      },
+      "BNBUSDC": {
+            "currencyPair": "BNBUSDC",
+            "askPrice": "282.8",
+            "bidPrice": "281.9",
+            "highPrice": "279.7",
+            "lowPrice": "278"
+      },
+      "XRPUSDC": {
+            "currencyPair": "XRPUSDC",
+            "askPrice": "0.4956",
+            "bidPrice": "0.4945",
+            "highPrice": "0.5223",
+            "lowPrice": "0.4688"
+      },
+      "SOLUSDC": {
+            "currencyPair": "SOLUSDC",
+            "askPrice": "33.93",
+            "bidPrice": "33.86",
+            "highPrice": "34.19",
+            "lowPrice": "32.01"
+      },
+      "AVAXUSDC": {
+            "currencyPair": "AVAXUSDC",
+            "askPrice": "17.97",
+            "bidPrice": "17.92",
+            "highPrice": "17.8",
+            "lowPrice": "17.57"
+      },
+      "SHIBUSDC": {
+            "currencyPair": "SHIBUSDC",
+            "askPrice": "0.00001133",
+            "bidPrice": "0.00001131",
+            "highPrice": "0.0000113",
+            "lowPrice": "0.0000107"
+      },
+      "ETHWZAR": {
+            "currencyPair": "ETHWZAR",
+            "askPrice": "1993",
+            "bidPrice": "1850",
+            "highPrice": "2500",
+            "lowPrice": "900"
+      }
+}

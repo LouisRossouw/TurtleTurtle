@@ -1,0 +1,23 @@
+{
+      "BTCZAR": {
+            "currencyPair": "BTCZAR",
+            "askPrice": "344271.30",
+            "bidPrice": "340751.32",
+            "highPrice": 0,
+            "lowPrice": 0
+      },
+      "ETHZAR": {
+            "currencyPair": "ETHZAR",
+            "askPrice": "23939.92",
+            "bidPrice": "23695.07",
+            "highPrice": 0,
+            "lowPrice": 0
+      },
+      "SOLZAR": {
+            "currencyPair": "SOLAR",
+            "askPrice": "610.38",
+            "bidPrice": "604.12",
+            "highPrice": 0,
+            "lowPrice": 0
+      }
+}

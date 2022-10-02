@@ -1,0 +1,5 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!bot_AAA_BACKTEST_ANim_2250.png

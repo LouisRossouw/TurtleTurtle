@@ -1,0 +1,36 @@
+# Config file for Luno
+
+
+TurtleTurtle_path: "D:/work/projects/dev/projects/TurtleTurtle/Trading_sys/Luno"
+TurtleTurtle_wallets_path: "D:/work/projects/dev/projects/TurtleTurtle/Trading_sys/Luno/data/bot_data/wallets"
+TurtleTurtle_audio_path : "D:/work/projects/dev/projects/TurtleTurtle/Trading_sys/Luno/libs/sounds"
+
+Live_data_amount : 3
+TurtleTurtle_speed: 5
+BackTest_Active: False
+BackTest_Active_print_statement: True
+Bot_Notifications: False
+
+BackTest_start_money: 10000
+
+
+# Luno
+
+luno_record_market: False
+luno_plot_graphs_of_market: False
+luno_plot_graphs_of_sales: False
+
+LUNO_active_bots: {
+
+
+              "bot_luno" : {
+
+                            status : "play",
+                            currency_pair : 'ETHZAR',
+                            account : "0000",
+                            Risk_mode : "low",
+                            Plot_graph : False
+
+                            },
+
+                  }

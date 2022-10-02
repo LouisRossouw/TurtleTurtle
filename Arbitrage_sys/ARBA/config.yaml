@@ -1,0 +1,21 @@
+# Config file for VALR
+
+
+TurtleTurtle_path: "D:/work/projects/dev/projects/TurtleTurtle/Arbitrage_sys/ARBA"
+TurtleTurtle_wallets_path: "D:/work/projects/dev/projects/TurtleTurtle/Arbitrage_sys/ARBA/data/bot_data/wallets"
+
+ARBA_active_bots: {
+
+
+
+                "arb_AAA" : {
+
+                            status : "play",
+                            currency_pair : 'SOLZAR',
+                            account : "000",
+                            Risk_mode : "dev",
+                            Plot_graph : False
+
+                            },
+
+}
