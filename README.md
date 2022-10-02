@@ -16,7 +16,8 @@ Does it make money? Not really! its really hard to try predict the markets direc
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80905013/193472741-b1263735-a187-4d36-aff3-7bb83ab63270.gif" align="center" width="100%">
 </p>
-- Dots are entry and exit points, green is short term Linear regression, pink is a more long term Linear regression, red and blue lines are bid and buy SMA, yellow is a longer EMA.
+
+- Dots are entry and exit points, green is short term Linear regression, pink is a more long term Linear regression, red and blue lines are bid and buy SMA, yellow is a   longer EMA.
 
 
 - Telegram bot to recieve notifications on whale activity and potential Arbitrage oppertunities. also could send commands to specific bots to force exit sales or hold.
