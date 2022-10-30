@@ -12,10 +12,10 @@ import Managers_sys.TeleGram_Manager.libs.config_mod as BOT
 TOKEN_API_KEY = os.getenv("TELEGRAM_TURTLETURTLE_API_KEY")
 bot = telebot.TeleBot(TOKEN_API_KEY, parse_mode=None)
 
-admin_name = "Louis"
-admin_username = "Kpow_636"
-admin_last_name = "Rossouw"
-my_id = 1403408899
+admin_name = ""
+admin_username = ""
+admin_last_name = ""
+my_id = ""
 
 fun_list = ['🧸','🧟‍♂️','🧟‍♀️','🧛‍♂️','🧛‍♀️','🧝‍♂️','🧙‍♂️','🦹‍♂️','🦸‍♂️','👤', '👻','💀','☠️','👽','👾','🤖','🎃','🤠','😈','💩','🕵️‍♀️','💂‍♂️','🙃','🤑🖕','🐶','🐱','🐭','🐹','🐰','🦊','🐻','🐼','🐨','🐯','🦁','🐮','🐷','🐸','🐲']
 
